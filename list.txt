@@ -3,3 +3,10 @@ ice cream
 sweets
 popcorn
 crisps
+Sugar
+Salt
+Cooking oil
+Rice
+Beans
+Bread
+Flour

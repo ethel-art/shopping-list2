@@ -10,3 +10,10 @@ Rice
 Beans
 Bread
 Flour
+Soap
+detergent
+mop
+gloves
+scouring pad
+harpic
+
